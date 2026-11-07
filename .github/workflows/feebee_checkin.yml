@@ -28,3 +28,4 @@ jobs:
           BARK_KEY: ${{ secrets.BARK_KEY }}
         run: |
           python3 feebee_checkin.py
+
